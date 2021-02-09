@@ -1022,6 +1022,69 @@ hr.footer-hr {
     align-items: center;
   }
   .count-col {
+    margin: 0 auto;
     width: 90%;
+  }
+  .count-col {
+  }
+  .why-choose-col {
+    width: 98%;
+  }
+  .milestone-counter {
+  }
+  .stat-count {
+    font-size: 38px;
+    margin-top: 45px;
+  }
+  #expand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .text-center,
+  .expand-img-col .progress-info-col h3 {
+    margin: 0 auto;
+    text-align: center;
+  }
+  .progress-info {
+    text-align: center;
+  }
+
+  #faq-par {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .faq-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .faq-que-col {
+    width: 100%;
+  }
+  .faq-que-col .common-h2 {
+    text-align: center;
+    width: 100%;
+  }
+  .faq-bg-col {
+    display: none;
+  }
+  #blog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .blog-cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .blog-col {
+    width: 100%;
   }
 }
